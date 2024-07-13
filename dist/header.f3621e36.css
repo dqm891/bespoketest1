@@ -1,0 +1,349 @@
+.design, .development, .edmonton-small-business {
+  margin: 0;
+}
+
+.edmonton-small-business-container {
+  font-size: inherit;
+  align-self: stretch;
+  margin: 0;
+  font-family: inherit;
+  font-weight: 900;
+  line-height: 120%;
+  position: relative;
+}
+
+.edmonton-small-business-desig-wrapper {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  display: flex;
+}
+
+.no-page-builders {
+  font-size: var(--body-regular-paragraph-large-size);
+  text-shadow: 1px 0 #333333e6, 0 1px #333333e6, -1px 0 #333333e6, 0 -1px #333333e6;
+  align-items: center;
+  width: 506px;
+  max-width: 100%;
+  line-height: 150%;
+  display: flex;
+  position: relative;
+}
+
+.hero-inner-content {
+  padding: 0 0 var(--padding-lgi);
+  box-sizing: border-box;
+  flex-direction: column;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 15px;
+  max-width: 100%;
+  display: flex;
+}
+
+.icon3 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.iconwrapper {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: none;
+}
+
+.text {
+  font-size: var(--body-regular-size);
+  line-height: 120%;
+  font-family: var(--body-regular-paragraph-large);
+  color: var(--main-white);
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 107px;
+  min-width: 107px;
+  display: flex;
+  position: relative;
+}
+
+.right-arrow {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  display: none;
+  position: relative;
+  overflow: hidden;
+}
+
+.primary-cta {
+  cursor: pointer;
+  border: 1px solid var(--color-darkslateblue-200);
+  padding: 18px var(--padding-12xl);
+  background-color: var(--color-darkslateblue-200);
+  justify-content: center;
+  align-items: center;
+  gap: var(--gap-3xs);
+  flex-direction: row;
+  display: flex;
+}
+
+.hero, .hero-content {
+  box-sizing: border-box;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+  display: flex;
+}
+
+.hero-content {
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  width: 733px;
+  height: 443px;
+  padding: 0;
+}
+
+.hero {
+  padding: 177px var(--padding-301xl) 180px;
+  text-align: left;
+  font-size: var(--desktop-h1-size);
+  color: var(--main-white);
+  font-family: var(--body-regular-paragraph-large);
+  background-image: url("hero@3x.da39447e.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: flex-end;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.logo-icon {
+  object-fit: cover;
+  align-self: stretch;
+  width: 168px;
+  min-height: 65px;
+  max-height: 100%;
+}
+
+.home {
+  min-width: 44px;
+  line-height: 150%;
+  display: inline-block;
+  position: relative;
+}
+
+.hover {
+  border-bottom: 2px solid var(--main-white);
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+}
+
+.about, .blog, .menu1, .services1 {
+  min-width: 43px;
+  line-height: 150%;
+  display: inline-block;
+  position: relative;
+}
+
+.blog, .menu1, .services1 {
+  min-width: 41px;
+}
+
+.blog, .services1 {
+  min-width: 61px;
+}
+
+.blog {
+  min-width: 32px;
+}
+
+.header-content, .menu {
+  flex-direction: row;
+  align-items: center;
+  max-width: 100%;
+  display: flex;
+}
+
+.menu {
+  padding: var(--padding-xl) 0;
+  box-sizing: border-box;
+  justify-content: center;
+  gap: var(--gap-21xl);
+  flex: 1;
+}
+
+.header-content {
+  justify-content: flex-start;
+  gap: 100px;
+  width: 649px;
+}
+
+.icon4 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.iconwrapper1 {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: none;
+}
+
+.text1 {
+  font-size: var(--body-regular-size);
+  line-height: 120%;
+  font-family: var(--body-regular-paragraph-large);
+  color: var(--main-white);
+  text-align: center;
+  white-space: nowrap;
+  min-width: 79px;
+  display: inline-block;
+  position: relative;
+}
+
+.right-arrow1 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  display: none;
+  position: relative;
+  overflow: hidden;
+}
+
+.header, .primary-cta1 {
+  flex-direction: row;
+  align-items: center;
+  display: flex;
+}
+
+.primary-cta1 {
+  cursor: pointer;
+  border: 1px solid var(--main-white);
+  padding: 17px var(--padding-12xl);
+  justify-content: center;
+  gap: var(--gap-3xs);
+  background-color: #0000;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.header {
+  padding: var(--padding-xl) var(--padding-301xl);
+  box-sizing: border-box;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  z-index: 1;
+  text-align: center;
+  font-size: var(--body-regular-size);
+  color: var(--main-white);
+  font-family: var(--body-regular-paragraph-large);
+  background-color: #000000b3;
+  width: 100%;
+  max-width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.headerhero {
+  background-color: var(--main-white);
+  letter-spacing: normal;
+  width: 100%;
+  height: 800px;
+  line-height: normal;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (width <= 1200px) {
+  .header, .hero {
+    padding-left: var(--padding-141xl);
+    padding-right: var(--padding-141xl);
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (width <= 750px) {
+  .edmonton-small-business-container {
+    font-size: var(--font-size-30xl);
+    line-height: 59px;
+  }
+}
+
+@media screen and (width <= 675px) {
+  .hero-content {
+    gap: var(--gap-xl);
+  }
+
+  .hero {
+    padding-left: var(--padding-61xl);
+    padding-right: var(--padding-61xl);
+    box-sizing: border-box;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  .header-content {
+    gap: 50px;
+    width: 268px;
+  }
+
+  .header {
+    padding-left: var(--padding-61xl);
+    padding-right: var(--padding-61xl);
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (width <= 450px) {
+  .edmonton-small-business-container {
+    font-size: 37px;
+    line-height: 44px;
+  }
+
+  .no-page-builders {
+    font-size: var(--body-regular-size);
+    line-height: 24px;
+  }
+
+  .hero {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+
+  .menu {
+    gap: var(--gap-xl);
+  }
+
+  .header-content {
+    gap: 25px;
+  }
+
+  .header {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+/*# sourceMappingURL=header.f3621e36.css.map */

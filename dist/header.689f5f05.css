@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --body-regular-paragraph-large: Roboto;
+  --font-size-lg: 18px;
+  --body-regular-paragraph-large-size: 20px;
+  --body-regular-size: 16px;
+  --desktop-h3-size: 25px;
+  --font-size-30xl: 49px;
+  --desktop-h1-size: 61px;
+  --main-white: #fff;
+  --main-paragraph: #4e4b66;
+  --main-dark: #1a1a1a;
+  --color-royalblue: #004db4;
+  --color-gainsboro: #e4e4e4;
+  --color-darkslateblue-100: #0d4da1;
+  --color-darkslateblue-200: #00275b;
+  --gap-lg: 18px;
+  --gap-21xl: 40px;
+  --gap-xl: 20px;
+  --gap-13xl: 32px;
+  --gap-base: 16px;
+  --gap-xs: 12px;
+  --gap-3xs: 10px;
+  --padding-81xl: 100px;
+  --padding-xl: 20px;
+  --padding-21xl: 40px;
+  --padding-7xl-5: 26.5px;
+  --padding-lgi: 19px;
+  --padding-5xl: 24px;
+  --padding-3xl: 22px;
+  --padding-301xl: 320px;
+  --padding-141xl: 160px;
+  --padding-61xl: 80px;
+  --padding-12xl: 31px;
+  --br-5xl: 24px;
+  --br-45xl: 64px;
+  --br-81xl: 100px;
+}
+/*# sourceMappingURL=header.689f5f05.css.map */
